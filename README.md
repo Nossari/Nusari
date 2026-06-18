@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Ryan Nusari
 ### Graduate IT Engineer | Cybersecurity & AI Researcher
-
+https://img.shields.io/badge/Currently_Working_On-RMC_Framework-green?style=for-the-badge)
 <p align="center">
   <img src="https://img.shields.io/badge/Status-IT_Engineer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Sana'a%2C_Yemen-red?style=for-the-badge" />
@@ -41,5 +41,13 @@ Passionate about building the future of computing. Founder of **RMC (Resonance M
 
 ---
 *Always curious, constantly learning, and building the future.*
+### 🗓️ My Contribution Activity
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nossari&theme=react-dark&hide_border=true&area=true)
+
+### 🏆 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nossari&layout=compact&theme=radical&hide_border=true" />
+</p>
+
 
 </div>
